@@ -1,8 +1,6 @@
----
-title: tkSysModal
----
+# tkSysModal
 
-tkSysModal This allows you to create a windows system-modal dialog using
+This allows you to create a windows system-modal dialog using
 tkinter\
 (For instance, like the UAC dialog)\
 \
@@ -16,12 +14,7 @@ mode.
 Status:
 -------
 
-::: {.indent}
 Pretty much working but could use some debugging
-:::
 
 TODO:
 -----
-
-::: {.indent}
-:::
