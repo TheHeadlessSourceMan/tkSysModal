@@ -1,4 +1,11 @@
 # tkSysModal
+![Status: Stable](https://img.shields.io/badge/status-stable-green.svg?style=plastic)
+![License: LGPLv3](https://img.shields.io/badge/license-LGPLv3-blue.svg?style=plastic)
+![Python Version: 2.7](https://img.shields.io/badge/Python%20Version-2.7-blue.svg?style=plastic)
+![Release Version: 1.0](https://img.shields.io/badge/Release%20Version-1.0-green.svg?style=plastic)
+[![webpage:click here](https://img.shields.io/badge/webpage-click%20here-blue.svg?style=plastic)](https://TheHeadlessSourceMan.wordpress.com)
+
+
 
 This allows you to create a windows system-modal dialog using
 tkinter\
